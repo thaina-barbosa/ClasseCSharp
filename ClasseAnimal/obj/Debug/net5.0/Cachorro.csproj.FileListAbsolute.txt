@@ -1,0 +1,16 @@
+C:\projetos\Petz\RacaPet\bin\Debug\net5.0\Cachorro.exe
+C:\projetos\Petz\RacaPet\bin\Debug\net5.0\Cachorro.deps.json
+C:\projetos\Petz\RacaPet\bin\Debug\net5.0\Cachorro.runtimeconfig.json
+C:\projetos\Petz\RacaPet\bin\Debug\net5.0\Cachorro.runtimeconfig.dev.json
+C:\projetos\Petz\RacaPet\bin\Debug\net5.0\Cachorro.dll
+C:\projetos\Petz\RacaPet\bin\Debug\net5.0\Cachorro.pdb
+C:\projetos\Petz\RacaPet\obj\Debug\net5.0\Cachorro.csproj.AssemblyReference.cache
+C:\projetos\Petz\RacaPet\obj\Debug\net5.0\Cachorro.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\Petz\RacaPet\obj\Debug\net5.0\Cachorro.AssemblyInfoInputs.cache
+C:\projetos\Petz\RacaPet\obj\Debug\net5.0\Cachorro.AssemblyInfo.cs
+C:\projetos\Petz\RacaPet\obj\Debug\net5.0\Cachorro.csproj.CoreCompileInputs.cache
+C:\projetos\Petz\RacaPet\obj\Debug\net5.0\Cachorro.dll
+C:\projetos\Petz\RacaPet\obj\Debug\net5.0\refint\Cachorro.dll
+C:\projetos\Petz\RacaPet\obj\Debug\net5.0\Cachorro.pdb
+C:\projetos\Petz\RacaPet\obj\Debug\net5.0\Cachorro.genruntimeconfig.cache
+C:\projetos\Petz\RacaPet\obj\Debug\net5.0\ref\Cachorro.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hPhdwyvQ8409d7nfDKqE73YB5FiaUkbHng4e6kIpOUVeGTrHnaJ2MQr90ZOfweHZZ+u/8IVscd5G65F1QUi2vg==",
+  "success": true,
+  "projectFilePath": "C:\\projetos\\ClasseAnimais\\ClasseAnimal\\Animais.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hamic\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
